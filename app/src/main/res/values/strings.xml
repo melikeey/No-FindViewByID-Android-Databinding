@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Data Binding Java</string>
+    <string name="open_fragment">Open Fragment</string>
+    <string name="hello">HELLO !</string>
+</resources>
