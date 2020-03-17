@@ -8,4 +8,14 @@ There is no need findViewById, you can implement your view
 Stop using findViewById. 
 
 How to use databinding in Activity ?
+
+
+Activity[https://github.com/melikeey/No-FindViewByID-Android-Databinding/blob/master/app/src/main/java/melikeey/data_binding_example/MainActivity.java]
+
 How to use databinding in Fragment ?
+
+
+https://github.com/melikeey/No-FindViewByID-Android-Databinding/blob/master/app/src/main/java/melikeey/data_binding_example/TestFragment.java
+
+XML : 
+https://github.com/melikeey/No-FindViewByID-Android-Databinding/blob/master/app/src/main/res/layout/activity_main.xml
