@@ -20,3 +20,8 @@ How to use databinding in Fragment ?
 XML :
 
 [XML](https://github.com/melikeey/No-FindViewByID-Android-Databinding/blob/master/app/src/main/res/layout/activity_main.xml)
+
+
+Gradle :
+
+[build.gradle](https://github.com/melikeey/No-FindViewByID-Android-Databinding/blob/master/app/build.gradle)
